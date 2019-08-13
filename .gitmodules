@@ -1,0 +1,3 @@
+[submodule "dir2"]
+	path = dir2
+	url = git@github.com:meredevelopment/CT-Test-Subrepo.git
